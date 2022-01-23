@@ -1,0 +1,6 @@
+module Pods_TodoAppTS {
+  umbrella header "Pods-TodoAppTS-umbrella.h"
+
+  export *
+  module * { export * }
+}
