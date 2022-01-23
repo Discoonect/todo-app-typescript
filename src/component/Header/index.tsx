@@ -2,6 +2,9 @@ import React, { FC } from "react";
 import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
 
 type Props = {
+  /*
+   * 주석 테스트
+   */
   onSelectItem: Function;
 };
 
